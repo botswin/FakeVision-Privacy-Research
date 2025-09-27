@@ -1,5 +1,6 @@
 {
-    "name": "fv-solver",
+    "name": "FakeVision-Reverse",
+    "description": "Academic research framework for studying advanced detection mechanisms and JavaScript obfuscation techniques in authorized testing environments",
     "type": "module",
     "engines": {
         "node": "v22.11.0"

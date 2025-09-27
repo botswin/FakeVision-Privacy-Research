@@ -1,3 +1,9 @@
+/**
+ * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * For authorized testing environments that comply with all applicable laws.
+ * See: https://github.com/botswin/FakeVision-Reverse/blob/main/DISCLAIMER.md
+ */
+
 import { parse, traverse, types } from "@babel/core";
 import { CodeGenerator } from "@babel/generator";
 import fs from "fs/promises";

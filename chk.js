@@ -1,3 +1,9 @@
+/**
+ * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * For authorized testing environments that comply with all applicable laws.
+ * See: https://github.com/botswin/FakeVision-Reverse/blob/main/DISCLAIMER.md
+ */
+
 // @ts-check
 
 // This is the most important part, fv.pro sends encrypted data via https://api.fv.pro/chk and then returns whether anti detect.
