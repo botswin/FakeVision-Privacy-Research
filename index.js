@@ -1,7 +1,7 @@
 /**
- * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * ⚠️ PRIVACY RESEARCH USE ONLY
  * For authorized testing environments that comply with all applicable laws.
- * See: https://github.com/botswin/FakeVision-Reverse/blob/main/DISCLAIMER.md
+ * See: https://github.com/botswin/fakevision-privacy-research/blob/main/DISCLAIMER.md
  */
 
 import { parse, traverse, types } from "@babel/core";

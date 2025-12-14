@@ -1,16 +1,16 @@
-# FakeVision Security Research
+# FakeVision Privacy Research
 
-## ⚠️ ACADEMIC RESEARCH USE ONLY
+## ⚠️ PRIVACY RESEARCH USE ONLY
 
-**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+**📋 [Complete Legal Disclaimer and Terms of Use](DISCLAIMER.md)**
 
-This repository is designed for **academic research and authorized security analysis** of advanced detection mechanisms in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+This repository is designed for **privacy-focused research and authorized security analysis** of advanced detection mechanisms in controlled environments that comply with all applicable laws and institutional ethics guidelines.
 
 ---
 
 ## Research Overview
 
-This repository contains educational materials for **security researchers** studying sophisticated detection systems and JavaScript obfuscation techniques in **authorized testing environments**. The research focuses on understanding advanced anti-automation mechanisms for academic and security education purposes.
+This repository contains educational materials for **researchers** studying sophisticated detection systems and JavaScript obfuscation techniques in **authorized testing environments**. The research focuses on understanding advanced anti-automation mechanisms for privacy protection and security education.
 
 ## Educational Components
 
@@ -18,13 +18,13 @@ This repository contains educational materials for **security researchers** stud
 
 1. **AST-based deobfuscation** - Educational framework for studying code transformation
 2. **Dynamic analysis** - Academic tools for runtime behavior analysis
-3. **Detection mechanism studies** - Research materials for understanding anti-bot systems
+3. **Detection mechanism studies** - Research materials for understanding anti-bot and tracking systems
 4. **Puppeteer integration** - Educational browser automation for research
 
 ### Research Applications
 
-- **Advanced detection studies** for understanding sophisticated anti-automation techniques
-- **Obfuscation analysis** for security education and compiler design studies
+- **Advanced detection studies** for understanding sophisticated anti-automation and tracking techniques
+- **Obfuscation analysis** for privacy and security education and compiler design studies
 - **AST manipulation research** for academic code analysis methodologies
 - **Dynamic deobfuscation** for educational reverse engineering studies
 - **Browser automation security** for research institutions
@@ -39,7 +39,7 @@ The repository demonstrates educational approaches to:
 
 - Advanced JavaScript obfuscation analysis techniques
 - AST (Abstract Syntax Tree) manipulation for academic study
-- Dynamic analysis methodologies for security research
+- Dynamic analysis methodologies for privacy and security research
 - Educational deobfuscation techniques for code comprehension
 - Browser automation in controlled research environments
 
@@ -64,7 +64,7 @@ node ./index.js
 
 This research framework is valuable for:
 
-- **Security education** - Understanding advanced detection and obfuscation techniques
+- **Security education** - Understanding advanced detection, tracking, and obfuscation techniques
 - **Compiler design studies** - Analyzing complex code transformation patterns
 - **Static analysis research** - Developing methodologies for obfuscated code analysis
 - **Dynamic analysis education** - Teaching runtime behavior analysis techniques

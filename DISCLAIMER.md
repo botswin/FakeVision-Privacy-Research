@@ -2,16 +2,16 @@
 
 ## ⚠️ IMPORTANT LEGAL NOTICE
 
-**This repository is strictly for academic research and authorized security analysis purposes only.**
+**This repository is strictly for privacy research and authorized security analysis purposes only.**
 
 ## Terms of Use
 
 By accessing, downloading, or using any content from this repository, you acknowledge and agree to the following terms:
 
-### 1. Academic and Educational Use Only
+### 1. Privacy and Educational Use Only
 
 This repository is designed exclusively for:
-- **Academic research** in computer science and cybersecurity
+- **Privacy research** in computer science and cybersecurity
 - **Educational purposes** in authorized institutional settings
 - **Security research** by qualified professionals
 - **Authorized penetration testing** in controlled environments
